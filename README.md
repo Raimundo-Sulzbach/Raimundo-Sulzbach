@@ -210,6 +210,8 @@ I am currently building a professional career transition.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raimundo.sulzbach@gmail.com)
 
 <!-- css section -->
+
+<!-- 
 <style>
   .img_rounded20{
     width: 45px; 
@@ -217,3 +219,4 @@ I am currently building a professional career transition.
     border-radius: 20%;
   }
 </style>
+ -->
