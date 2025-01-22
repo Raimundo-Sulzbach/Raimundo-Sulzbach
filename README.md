@@ -30,11 +30,11 @@ I am currently building a professional career transition.
   <body>
     <!-- languages -->
     <!-- english -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" width="25px" height="15px">&nbsp;English&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" width="45px" height="25px">&nbsp;English&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- spanish -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/640px-Flag_of_Spain.svg.png" width="25px" height="15px">&nbsp;Spanish&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/640px-Flag_of_Spain.svg.png" width="45px" height="25px">&nbsp;Spanish&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- portuguese -->
-    <img src="https://img.freepik.com/fotos-premium/bandeira-nacional-brasil-bandeira-do-brasil-tecido-bandeira-brasil-trabalho-3d-e-imagem-3d_220166-2954.jpg" width="25px" height="15px">&nbsp;Portuguese
+    <img src="https://img.freepik.com/fotos-premium/bandeira-nacional-brasil-bandeira-do-brasil-tecido-bandeira-brasil-trabalho-3d-e-imagem-3d_220166-2954.jpg" width="45px" height="25px">&nbsp;Portuguese
   </body>
 </html>
 
