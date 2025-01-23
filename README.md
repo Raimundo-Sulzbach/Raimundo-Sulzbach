@@ -4,7 +4,7 @@ I have several specializations in technology, management and finance.
 Also, I have international experience in company management, IT teams, data analysis, business implementation and finance.
 I am currently building a professional career transition.
 
-<img src="./images/TeamWorkCreation.png">
+
  
 ## Currently drinking:
 <div style="display: flex;">
@@ -196,13 +196,6 @@ I am currently building a professional career transition.
   </body>
 </html>
 <p></p>
-
-
-
-## Github stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raimundo-Sulzbach&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 
 ## Let s connect?
