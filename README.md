@@ -4,7 +4,8 @@ I have several specializations in technology, management and finance.
 Also, I have international experience in company management, IT teams, data analysis, business implementation and finance.
 I am currently building a professional career transition.
 
-
+<img src="./images/TeamWorkCreation.png">
+ 
 ## Currently drinking:
 <div style="display: flex;">
 <!-- heinekein -->
