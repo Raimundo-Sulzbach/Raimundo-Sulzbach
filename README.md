@@ -162,9 +162,9 @@ I am currently building a professional career transition.
     <!-- first line subtitles --> 
     <h6>
       <font color="orange">TIME MGMT</font color>
-      <font color="#00FFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESILIENCE</font color>
-      <font color="85c1e9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEADERSHIP</font color>
-      <font color="#00FF7F">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EMPATHY</font color>
+      <font color="#00FFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESILIENCE</font color>
+      <font color="85c1e9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEADERSHIP</font color>
+      <font color="#00FF7F">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EMPATHY</font color>
       <font color="yellow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DECISION</font color>
       <p></p>
       <!-- 2nd line subtitles -->
