@@ -200,7 +200,6 @@ I am currently building a professional career transition.
 ## GitHub's current status:
 <img src="https://github-readme-stats.vercel.app/api?username=Raimundo-Sulzbach&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimundo-Sulzbach&layout=compact&theme=graywhite&hide_border=true" width="313" />
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api?username=Raimundo-Sulzbach&layout=compact)
 
 ## Let s connect?
 
